@@ -7,4 +7,4 @@ Gods:
 - [[Chauntea]]
 
 Factions:
-- The P
+- [[The Party]]
