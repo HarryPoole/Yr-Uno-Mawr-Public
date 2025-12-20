@@ -5,3 +5,6 @@ Locations (in [[Cyfand]]):
 
 Gods:
 - [[Chauntea]]
+
+Factions:
+- The P
