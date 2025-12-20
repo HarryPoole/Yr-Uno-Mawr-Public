@@ -4,4 +4,4 @@ Locations (in [[Cyfand]]):
 - [[Phandalin]]
 
 Gods:
-- 
+- [[Chauntea]]
