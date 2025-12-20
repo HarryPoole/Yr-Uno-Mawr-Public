@@ -1,3 +1,7 @@
 Locations (in [[Cyfand]]):
-Stonehaven
-Arcanport
+- [[Stonehaven]]
+- [[Arcanport]]
+- [[Phandalin]]
+
+Gods:
+- 
