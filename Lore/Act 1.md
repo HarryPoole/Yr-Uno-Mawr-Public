@@ -1,5 +1,6 @@
 #plot 
-Follows [[The Party]] through the pre merge lands of [[Cyfand]]
+
+Follows [[The Party]] through the lands of [[Cyfand]]
 
 [[Session 1]] - **“Awakening in the Web”**
 [[Session 2]] - **“Road to Phandalin”**
