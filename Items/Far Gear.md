@@ -1,4 +1,5 @@
 #item
+
 A component of the Orrery of the Wanderer associated with distance, separation, and unreachable places. 
 
 The [[Far Gear]] governs the magical features of the [[Orrery of the Wanderer]]
