@@ -1,1 +1,3 @@
-Locations in [[Cyfand]]:
+Locations (in [[Cyfand]]):
+Stonehaven
+Arcanport
