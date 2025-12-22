@@ -1,6 +1,6 @@
 #location 
 
-The continent the game takes place in.
+The country the game takes place in.
 
 Includes:
 [[Stonehaven]]
