@@ -1,1 +1,2 @@
 #location
+A frontier town built on persistence and stubborn hope. Though modest in size, Phandalin sits at the center of trade routes and trouble alike. Its people rely heavily on outside help to survive the dangers surrounding them.
