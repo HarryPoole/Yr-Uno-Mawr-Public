@@ -1,6 +1,8 @@
 #location
-Arcanport is the capital city of Cyfand and the heart of its trade, government, and arcane study. Built along a vast natural harbor, the city’s docks are always alive with motion, merchant vessels from distant lands unload goods beside magically powered ships and experimental arcane constructs.
+[[Arcanport]] is known as the largest city on the continent of [[Cyfand]] and the place where most major trade eventually passes through. Nearly everything worth buying or selling has passed through its docks at some point. Ships arrive constantly, bringing goods, people, and ideas from far beyond the local regions.
 
-The city is ruled by layered bureaucracies and councils, many of which compete quietly for influence. Laws are meticulously recorded, debated, and revised, often lagging behind the rapid pace of innovation within the city. While order is prized, ambition thrives here, and those with wealth, magic, or information can bend systems to their advantage.
+  
 
-Arcanport is also a center of magical research. Arcane guilds, private scholars, and sanctioned institutions operate openly, experimenting with new spellforms, runic designs, and arcane theory. Not all research is ethical, and rumours spread of sealed districts, forbidden archives, and experiments that never made it out of the lab.
+To most people, [[Arcanport]] is also associated with magic. Arcane guilds, scholars, and institutions operate openly there, and magical experimentation is treated as an accepted part of daily life. New spells, devices, and theories are said to originate there before slowly spreading outward.
+
+The city is ruled by councils and officials rather than a single figure, which gives it a reputation for being slow to act but difficult to disrupt. [[Arcanport]] feels distant from frontier problems, yet its decisions often affect places far smaller than itself.
