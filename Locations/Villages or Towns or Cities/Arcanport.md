@@ -3,10 +3,6 @@ Arcanport is the capital city of Cyfand and the heart of its trade, government, 
 
 The city is ruled by layered bureaucracies and councils, many of which compete quietly for influence. Laws are meticulously recorded, debated, and revised, often lagging behind the rapid pace of innovation within the city. While order is prized, ambition thrives here, and those with wealth, magic, or information can bend systems to their advantage.
 
-  
-
 Arcanport is also a center of magical research. Arcane guilds, private scholars, and sanctioned institutions operate openly, experimenting with new spellforms, runic designs, and arcane theory. Not all research is ethical, and rumors persist of sealed districts, forbidden archives, and experiments that never made it out of the lab.
-
-  
 
 To outsiders, Arcanport represents opportunity and danger in equal measure — a city where fortunes are made overnight, and mistakes can echo across the continent.
