@@ -1,7 +1,7 @@
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
 - [[Arcanport]]
-- [[Phandalin]]
+- [REDACTED]
 
 Gods:
 - [[Chauntea]]

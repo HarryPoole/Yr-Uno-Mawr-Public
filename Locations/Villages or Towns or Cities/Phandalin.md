@@ -3,6 +3,6 @@
 
 Life in Phandalin is difficult but stable. The people are cautious, hardworking, and used to bad news. Raids, shortages, and rumors of danger are common topics of conversation, yet the town persists through stubbornness rather than strength.
 
-Phandalin does not have the means to solve its own problems, which is why it frequently seeks outside assistance. When adventurers arrive, they are noticed immediately — not out of excitement, but necessity.
+[[Phandalin]] does not have the means to solve its own problems, which is why it frequently seeks outside assistance. When adventurers arrive, they are noticed immediately, not out of excitement, but necessity.
 
-To those who live there, Phandalin is home. To outsiders, it is a place that always seems one disaster away from collapse.
+To those who live there, [[Phandalin]] is home. To outsiders, it is a place that always seems one disaster away from collapse.
