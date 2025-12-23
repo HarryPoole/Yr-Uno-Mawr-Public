@@ -1,6 +1,8 @@
 #location
-Phandalin is a frontier town defined by resilience rather than strength. Nestled among rolling hills and crossroads, it survives by being just important enough to matter and just small enough to be overlooked. Its wooden buildings bear the marks of repeated repairs, and nearly every structure tells a story of something lost, rebuilt, or narrowly saved. 
+[[Phandalin]] is a small town that sits along important trade routes but lacks the resources to properly defend itself. It relies on passing caravans and hired help to stay afloat. Most people know it as a place that used to be more important than it is now.
 
-The town relies heavily on passing trade and outside help. Caravans bring coin and supplies, while adventurers bring hope — or trouble. Phandalin’s people are practical, wary, and deeply community-focused. They remember who helps them, and they never forget who doesn’t.
+Life in Phandalin is difficult but stable. The people are cautious, hardworking, and used to bad news. Raids, shortages, and rumors of danger are common topics of conversation, yet the town persists through stubbornness rather than strength.
 
-Despite its modest size, Phandalin sits uncomfortably close to danger. Goblin raids, bandit activity, and strange happenings in the surrounding wilderness are treated as unfortunate facts of life rather than exceptions. The town’s leadership struggles to keep pace with these threats, often relying on hired blades to do what law and walls cannot.
+Phandalin does not have the means to solve its own problems, which is why it frequently seeks outside assistance. When adventurers arrive, they are noticed immediately — not out of excitement, but necessity.
+
+To those who live there, Phandalin is home. To outsiders, it is a place that always seems one disaster away from collapse.
