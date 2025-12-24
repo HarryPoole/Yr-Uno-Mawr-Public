@@ -1,10 +1,10 @@
 #god 
 
-Horatio is not merely a god of battle, but of conflict itself, wars between nations, feuds between families, and even internal struggle.
+[[Horatio]] is not merely a god of battle, but of conflict itself, wars between nations, feuds between families, and even internal struggle.
 
-Worshippers of Horatio believe war is inevitable and necessary, a crucible through which progress is forged. His followers often claim Horatio does not cause war, only ensures it ends decisively
+Worshippers of [[Horatio]] believe war is inevitable and necessary, a crucible through which progress is forged. His followers often claim [[Horatio]] does not cause war, only ensures it ends decisively
 
-Horatio’s temples are often indistinguishable from fortresses.
+[[Horatio]]’s temples are often indistinguishable from fortresses.
 
 It is widely believed that [[Horatio]] and [[Hendrik]] were twin brothers, born at the same moment, forged from the same divine intent. Where [[Hendrik]] embodied order, structure, and permanence, [[Horatio]] embodied conflict, change, and decisive force. Their names are similar by design, a reminder that they were never meant to exist apart.
 
