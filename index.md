@@ -3,7 +3,7 @@ Locations (in [[Cyfand]]):
 - [[Arcanport]]
 - [REDACTED]
 
-Gods:
+[[Gods]]:
 - [[Chauntea]]
 
 Factions:
