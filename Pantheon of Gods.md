@@ -8,4 +8,8 @@ The collection of Gods in [[Cyfand]].
 - [[Horatio]] - God of War
 - Lliira - Goddess of Joy
 - Loviatar - Goddess of Pain
-- E
+- Eleos - God of Empathy
+- Azazel - God of Suffering
+- Giloro - God of Greed
+- Chauntea - God of Agriculture
+- 
