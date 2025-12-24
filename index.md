@@ -11,10 +11,10 @@ Locations (in [[Cyfand]]):
 - [[Lliira]]
 - [[Loviatar]]
 - [[Eleos]]
-- [[Azazel]] - God of Suffering
-- [[Giloro]] - God of Greed
-- [[Chauntea]] - God of Agriculture
-- [[Salto]] - God of the Leap Year
+- [[Azazel]]
+- [[Giloro]]
+- [[Chauntea]]
+- [[Salto]]
 
 Factions:
 - [[The Party]]
