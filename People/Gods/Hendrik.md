@@ -8,4 +8,4 @@ Ancient texts describe them as constantly arguing — not out of hatred, but nec
 
 Many myths claim that war only existed because order existed first, and that order only endured because war enforced it.
 
-*“When the twins agreed, the world held steady. When they argued, the world moved forward.”*
+“When the twins agreed, the world held steady. When they argued, the world moved forward.”
