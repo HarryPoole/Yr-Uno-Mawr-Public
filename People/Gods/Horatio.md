@@ -1,6 +1,6 @@
 #god 
 
-[[Horatio]] is not merely a God of battle, but of conflict itself, wars between nations, feuds between families, and even internal struggle.
+[[Horatio]] is the God of War.
 
 Worshippers of [[Horatio]] believe war is inevitable and necessary, a crucible through which progress is forged. His followers often claim [[Horatio]] does not cause war, only ensures it ends decisively. [[Horatio]]’s temples are often indistinguishable from fortresses.
 
