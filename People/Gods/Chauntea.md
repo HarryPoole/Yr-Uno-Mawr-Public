@@ -1,4 +1,4 @@
-#npc 
+#god
 
 [[Chauntea]] is the goddess most commonly worshipped in rural communities. She represents agriculture, growth, and the continued survival of ordinary people through hard work and patience.
 
