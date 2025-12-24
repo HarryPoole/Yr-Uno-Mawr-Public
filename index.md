@@ -4,13 +4,13 @@ Locations (in [[Cyfand]]):
 - [REDACTED]
 
 [[Pantheon of Gods|Gods]]:
-- - [[Diovin]] - God of the Gods
-- [[Govili]] - God of Goodwill
-- [[Hendrik]] - God of Order
-- [[Horatio]] - God of War
-- [[Lliira]] - Goddess of Joy
-- [[Loviatar]] - Goddess of Pain
-- [[Eleos]] - God of Empathy
+- [[Diovin]]
+- [[Govili]]
+- [[Hendrik]]
+- [[Horatio]]
+- [[Lliira]]
+- [[Loviatar]]
+- [[Eleos]]
 - [[Azazel]] - God of Suffering
 - [[Giloro]] - God of Greed
 - [[Chauntea]] - God of Agriculture
