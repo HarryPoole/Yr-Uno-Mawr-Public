@@ -1,6 +1,6 @@
 #god 
 
-[[Lliira]] is the Goddess of Joy, and a power
+[[Lliira]] is the Goddess of Joy, and a member of the [[Pantheon of Gods]].
 
 Her worship surged centuries ago, when people sought comfort in shared joy, to this day only some historians could tell you why it surged.
 

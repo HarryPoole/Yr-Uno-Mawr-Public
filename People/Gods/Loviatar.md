@@ -1,6 +1,6 @@
 #god 
 
-[[Loviatar]] is the Goddess of Pain
+[[Loviatar]] is the Goddess of Pain, and a member of the [[Pantheon of Gods]].
 
 [[Loviatar]] represents pain as truth. Her followers believe suffering strips away illusion and reveals the self beneath.
 
