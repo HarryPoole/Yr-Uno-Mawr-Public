@@ -1,6 +1,6 @@
 #god
 
-[[Hendrik]] is the God of Order, and an important important 
+[[Hendrik]] is the God of Order, and a powerful figure in the [[Pantheon of Gods]].
 
 It is widely believed that [[Horatio]] and [[Hendrik]] were twin brothers, born at the same moment, forged from the same divine intent. Where [[Hendrik]] embodied order, structure, and permanence, [[Horatio]] embodied conflict, change, and decisive force.
 

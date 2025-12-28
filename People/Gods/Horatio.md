@@ -1,6 +1,6 @@
 #god 
 
-[[Horatio]] is the God of War.
+[[Horatio]] is the God of War, and a powerful figure in the [[Pantheon of Gods]].
 
 Worshippers of [[Horatio]] believe war is inevitable and necessary, a crucible through which progress is forged. His followers often claim [[Horatio]] does not cause war, only ensures it ends decisively. [[Horatio]]’s temples are often indistinguishable from fortresses.
 
