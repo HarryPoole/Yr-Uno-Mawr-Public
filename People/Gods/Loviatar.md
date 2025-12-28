@@ -8,4 +8,6 @@ She is not widely worshipped, but her influence is undeniable. Healers, interrog
 
 Among the non-religious, and even among casual worshippers, [[Loviatar]] and [[Azazel]] are often treated as the same god, or at least as different names for the same force. This confusion is widespread enough that most priests no longer bother correcting it unless pressed.
 
+[[Loviatar]] is understood by her followers as the goddess of pain itself — the sharp, immediate sensation that teaches, punishes, or purifies. Her clergy speak of pain as something precise, momentary, and meaningful. A wound hurts, then heals. A lesson is learned.
+
 > *“Pain is what hurts. Suffering is what stays. The gods don’t care which name you use.”*

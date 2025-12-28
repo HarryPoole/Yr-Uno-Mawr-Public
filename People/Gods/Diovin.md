@@ -1,6 +1,6 @@
 #god
 
-[[Diovin]] is the God of all Gods.
+[[Diovin]] is the God of all Gods, and the leader of the [[Pantheon of Gods]].
 
 He is believed to stand above the divine hierarchy itself. Most faiths agree that [[Diovin]] does not rule through command, but through existence, that the other gods are extensions of [[Diovin]]’s will.
 
