@@ -1,3 +1,17 @@
 #god
 
-Azazel is the God of 
+[[Azazel]] is the God of Death, and a member of the [[Pantheon of Gods]].
+
+He is not considered evil or kind, only inevitable. Every life, regardless of virtue or sin, eventually falls under his gaze.
+
+[[Azazel]] is believed to oversee the inflow of souls into the afterlife, guiding them from the mortal world to wherever they are meant to go. Whether a soul is destined for peace, punishment, rebirth, or something stranger is not his concern. His role is transition, not judgment.
+
+  L
+
+Importantly, Azazel does not rule the underworld. He delivers souls to their destination, after which his role is complete. Once a soul has crossed the threshold, it no longer belongs to him.
+
+  
+
+Among the common folk, the saying goes:
+
+“Azazel opens the door. What lies beyond is not his choice.”
