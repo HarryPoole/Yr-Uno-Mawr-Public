@@ -8,8 +8,8 @@ The collection of Gods in [[Cyfand]].
 - [[Lliira]] - Goddess of Joy
 - [[Loviatar]] - Goddess of Pain
 - [[Eleos]] - God of Empathy
-- Ennil - God
+- [[Ennil]] - Goddess of the Living
 - [[Azazel]] - God of Death
 - [[Giloro]] - God of Greed
-- [[Chauntea]] - God of Agriculture
-- [[Salto]] - God of the Leap Year
+- [[Chauntea]] - Goddess of Agriculture
+- [[Salto]] - Goddess of the Leap Year
