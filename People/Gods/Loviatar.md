@@ -2,12 +2,8 @@
 
 [[Loviatar]] is the Goddess of Pain, and a member of the [[Pantheon of Gods]].
 
-[[Loviatar]] represents pain as truth. Her followers believe suffering strips away illusion and reveals the self beneath.
+[[Loviatar]] represents pain as truth. Her followers believe suffering strips away illusion and reveals the self beneath. A soul learns through consequence, because of this, [[Loviatar]] is not universally hated, though she is rarely loved. Shrines to her are quiet places, often found near courts, prisons, or healing halls, where pain is acknowledged rather than denied.
 
-She is not widely worshipped, but her influence is undeniable. Healers, interrogators, and ascetics often acknowledge her presence, whether willingly or not.
+In the afterlife, it is said that Loviatar governs the punishments of the underworld. She does not decide who arrives there, only how pain is administered once judgment has already been passed. Her punishments are exact, measured, and never random. Pain ends when its purpose is fulfilled. 
 
-Among the non-religious, and even among casual worshippers, [[Loviatar]] and [[Azazel]] are often treated as the same god, or at least as different names for the same force. This confusion is widespread enough that most priests no longer bother correcting it unless pressed.
-
-[[Loviatar]] is understood by her followers as the goddess of pain itself — the sharp, immediate sensation that teaches, punishes, or purifies. Her clergy speak of pain as something precise, momentary, and meaningful. A wound hurts, then heals. A lesson is learned.
-
-> *“Pain is what hurts. Suffering is what stays. The gods don’t care which name you use.”*
+Clerics of [[Loviatar]] teach restraint. Pain given without reason is considered wasteful and insulting to her domain.
