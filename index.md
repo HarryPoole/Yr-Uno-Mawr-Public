@@ -1,7 +1,7 @@
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
 - [[Arcanport]]
-- [REDACTED]
+- [[REDACTED]]
 
 [[Pantheon of Gods|Gods]]:
 - [[Diovin]]
