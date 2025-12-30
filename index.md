@@ -11,6 +11,7 @@ Locations (in [[Cyfand]]):
 - [[Lliira]]
 - [[Loviatar]]
 - [[Eleos]]
+- [[Ennil]]
 - [[Azazel]]
 - [[Giloro]]
 - [[Chauntea]]
