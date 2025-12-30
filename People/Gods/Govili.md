@@ -2,8 +2,10 @@
 
 [[Govili]] is the God of Goodwill, and a powerful figure in the [[Pantheon of Gods]].
 
-Unlike many gods, [[Govili]]’s influence is subtle and often attributed to human nature rather than divine action.
+[[Govili]] represents cooperation without obligation, the act of giving because it is right, not because it is required. Merchants, diplomats, and rulers often invoke his name when forging alliances or opening trade.
 
-Shrines to [[Govili]] are common in towns that rely on mutual aid. Acts done “in [[Govili]]’s name” are often anonymous, reinforcing the belief that goodwill loses meaning when it seeks recognition.
+He is said to smile upon peaceful growth and mutual benefit, but to turn away from greed disguised as kindness.
 
-Some theologians argue [[Govili]]’s power waxes and wanes depending on mortal behaviour, making them unusually dependent on the world they influence.
+[[Govili]] is often depicted with open hands, never holding wealth himself.
+
+>“What is given freely returns freely.”
