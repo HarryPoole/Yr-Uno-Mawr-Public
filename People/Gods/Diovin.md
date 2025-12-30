@@ -2,6 +2,10 @@
 
 [[Diovin]] is the God of all Gods, and the leader of the [[Pantheon of Gods]].
 
-He is believed to stand above the divine hierarchy itself. Most faiths agree that [[Diovin]] does not rule through command, but through existence, that the other gods are extensions of [[Diovin]]’s will.
+Diovin is not worshipped in the same way as other gods. Instead, Diovin is acknowledged. He is believed to have shaped the pantheon itself, setting the boundaries by which gods may act, rule, and conflict.
 
-Very little is known about [[Diovin]]’s direct actions. Temples dedicated solely to [[Diovin]] are rare, and worship is usually symbolic rather than personal. Some believe [[Diovin]] created the framework of reality and then withdrew, allowing the other gods to shape it.
+Unlike other deities, Diovin is rarely associated with intervention. His role is balance at the highest scale — ensuring no god becomes absolute, and no domain consumes all others.
+
+Many theologians claim Diovin does not rule over the gods, but contains them.
+
+“The gods act. Diovin allows.”
