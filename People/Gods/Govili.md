@@ -8,4 +8,4 @@ He is said to smile upon peaceful growth and mutual benefit, but to turn away fr
 
 [[Govili]] is often depicted with open hands, never holding wealth himself.
 
->“What is given freely returns freely.”
+>*“What is given freely returns freely.”*
