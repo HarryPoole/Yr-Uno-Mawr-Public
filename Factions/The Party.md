@@ -6,4 +6,4 @@ Includes:
  - You
  - The other one
  - Woman
- - How the hell does that work no matter what
+ - How the hell does that work no matter who reads it
