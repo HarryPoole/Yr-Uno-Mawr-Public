@@ -4,7 +4,7 @@ dg-home: true
 ---
 # Sessions
 [[Act 1]]:
-- Nothing yet
+- [[Session 1]]
 # Lore
 Spell System:
 - [[Spell System Overview]]
