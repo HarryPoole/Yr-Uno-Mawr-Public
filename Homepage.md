@@ -12,12 +12,13 @@ Spell System:
 - [[How to draw Runes]]
 
 # Locations (in [[Cyfand]])
-- [[Stonehaven]]:
-	- Goblin Caves
+- [[Stonehaven]]
+	- [[Goblin Caves]]
 - [[Arcanport]]
 - [[Phandalin]]
 
-[[Pantheon of Gods|Gods]]:
+# People
+[[Pantheon of Gods|Gods]]
 - [[Diovin]]
 - [[Govili]]
 - [[Hendrik]]
@@ -31,7 +32,13 @@ Spell System:
 - [[Chauntea]]
 - [[Salto]]
 
-Factions:
+NPCs
+- [[Vonnet]]
+- [[Dilly]]
+
+PC
+
+# Factions
 - [[The Party]]
 - [[Pantheon of Gods]]
 - [[Acquisitions Incorporated]]
