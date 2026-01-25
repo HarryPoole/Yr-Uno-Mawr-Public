@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god
 
 [[Hendrik]] is the God of Order, and a powerful figure in the [[Pantheon of Gods]].

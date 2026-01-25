@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god 
 
 [[Salto]] is the God of the Leap Month, and a lesser figure in the [[Pantheon of Gods]].

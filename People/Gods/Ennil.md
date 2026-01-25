@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god 
 
 [[Ennil]] is the Goddess of the Living, and a member of the [[Pantheon of Gods]].

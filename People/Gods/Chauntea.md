@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god
 
 [[Chauntea]] is the Goddess of Agriculture, and a member of the [[Pantheon of Gods]]

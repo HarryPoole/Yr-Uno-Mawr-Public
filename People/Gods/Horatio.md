@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god 
 
 [[Horatio]] is the God of War, and a powerful figure in the [[Pantheon of Gods]].

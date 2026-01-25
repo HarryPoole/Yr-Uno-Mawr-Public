@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god
 
 [[Diovin]] is the God of all Gods, and the leader of the [[Pantheon of Gods]].

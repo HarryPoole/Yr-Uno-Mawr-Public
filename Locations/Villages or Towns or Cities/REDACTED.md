@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #location
 
 [[REDACTED]] is a small town that sits along important trade routes but lacks the resources to properly defend itself. It relies on passing caravans and hired help to stay afloat. Most people know it as a place that used to be more important than it is now.

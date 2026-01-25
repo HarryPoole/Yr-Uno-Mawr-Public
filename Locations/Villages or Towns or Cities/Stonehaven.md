@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #location
 
 [[Stonehaven]] was originally built to house miners and mining operations in the surrounding mountains, it survived the collapse of that industry, due to depletion of ores in the mountains, and became a hub for adventurers, mercenaries, and explorers.

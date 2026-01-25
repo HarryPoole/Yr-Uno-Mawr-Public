@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #faction
 
 A powerful adventuring corporation based in [[Stonehaven]], operating across the different regions of [[Cyfand]]. 

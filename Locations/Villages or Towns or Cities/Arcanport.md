@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #location
 
 [[Arcanport]] is the largest city in [[Cyfand]] and the place where major trade passes through. Ships arrive constantly, bringing goods, people, and ideas from far beyond the local regions.

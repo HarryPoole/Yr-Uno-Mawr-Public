@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god 
 
 [[Lliira]] is the Goddess of Joy, and a member of the [[Pantheon of Gods]].

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god
 
 [[Govili]] is the God of Goodwill, and a powerful figure in the [[Pantheon of Gods]].

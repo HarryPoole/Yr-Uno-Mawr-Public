@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god 
 
 [[Loviatar]] is the Goddess of Pain, and a member of the [[Pantheon of Gods]].
