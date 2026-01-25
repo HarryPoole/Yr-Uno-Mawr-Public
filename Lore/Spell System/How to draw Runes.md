@@ -7,68 +7,23 @@ Each part of a spell has its own way of showing that on a Rune, the parts of a s
 How to draw Level
 Note: Cantrips are represented by no lines
 
-  
-
-  
 
 How to draw School
 
-  
-  
-  
-  
 
 How to draw Damage Type
-
-  
-
 Note: No damage type is represented by nothing
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
 How to draw Area Type
-
-  
-
 Note: No area type is represented by nothing
 
-  
-  
-  
-  
-  
 
 How to draw Duration
-
-  
-
 Note: Any other duration is represented by nothing
 
-  
-  
-  
-  
-  
-  
-  
-  
 
 How to draw Range
-
-  
-
 Note: Any other range is represented by nothing
 
   
