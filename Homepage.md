@@ -2,6 +2,9 @@
 dg-publish: true
 dg-home: true
 ---
+# Sessions
+[[Act 1]]:
+- Nothing yet
 # Lore
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
