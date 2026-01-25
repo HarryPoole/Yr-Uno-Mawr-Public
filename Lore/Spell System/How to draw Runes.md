@@ -18,15 +18,18 @@ Note: No damage type is represented by nothing
 
 # How to draw Area Type
 Note: No area type is represented by nothing
-
-
+![[Area Type 1.png]]
+![[Area Type 2.png]]
+![[Area Type 3.png]]
+![[Area Type 4.png]]
 How to draw Duration
 Note: Any other duration is represented by nothing
-
+![[Duration 1.png]]
 
 How to draw Range
 Note: Any other range is represented by nothing
+![[Range 1.png]]
+![[Range 2.png]]
 
-  
 How to draw Dice
 Note: No dice used is represented by nothing
