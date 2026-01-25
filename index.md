@@ -19,3 +19,4 @@ Locations (in [[Cyfand]]):
 
 Factions:
 - [[The Party]]
+- [[Pantheon of Gods]]
