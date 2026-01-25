@@ -9,7 +9,7 @@ dg-home: true
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
 - [[Arcanport]]
-- [[REDACTED]]
+- [[Phandalin]]
 
 [[Pantheon of Gods|Gods]]:
 - [[Diovin]]
