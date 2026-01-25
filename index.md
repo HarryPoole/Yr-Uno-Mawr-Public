@@ -1,5 +1,6 @@
 ---
-dg-publish:
+dg-publish: true
+dg-home: true
 ---
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
