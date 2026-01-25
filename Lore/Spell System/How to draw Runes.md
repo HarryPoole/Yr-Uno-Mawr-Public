@@ -4,19 +4,19 @@ dg-publish: true
 #lore
 Each part of a spell has its own way of showing that on a Rune, the parts of a spell are as follows: Level, School, Damage Type, Area Type, Range, Duration and Dice used. They are all made from a binary base, except for school which is made from a trinary base.
 
-How to draw Level
+# How to draw Level
 Note: Cantrips are represented by no lines
-![[Cantrip.png]]
-![[1.png]]
+![[Level.png]]
 
-How to draw School
+# How to draw School
+![[School.png]]
 
-
-How to draw Damage Type
+# How to draw Damage Type
 Note: No damage type is represented by nothing
+![[Damage Type 1.png]]
+![[Damage Type 2.png]]
 
-
-How to draw Area Type
+# How to draw Area Type
 Note: No area type is represented by nothing
 
 
