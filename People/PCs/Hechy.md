@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #character
 The character of Sasha
 
