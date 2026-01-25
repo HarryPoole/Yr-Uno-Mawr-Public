@@ -6,6 +6,11 @@ dg-home: true
 [[Act 1]]:
 - Nothing yet
 # Lore
+Spell System:
+- [[Spell System Overview]]
+- [[Runes]]
+- Sp
+
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
 - [[Arcanport]]
