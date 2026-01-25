@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+#lore
 A rune is any 8 pointed shape (not to be confused with an 8 sided shape), depending on the lines connecting these points the runes will do different things, like its range, level, duration, school, etc. 
 
 When a rune is drawn it consumes one of the user’s spell slots, and is not cast until the rune is touched by any magic user that can cast that spell. 
