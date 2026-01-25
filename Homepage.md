@@ -9,7 +9,7 @@ dg-home: true
 Spell System:
 - [[Spell System Overview]]
 - [[Runes]]
-- Sp
+- [[How to draw Runes]]
 
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
@@ -33,3 +33,4 @@ Locations (in [[Cyfand]]):
 Factions:
 - [[The Party]]
 - [[Pantheon of Gods]]
+- [[Acquisitions Incorporated]]
