@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #god
 
 [[Azazel]] is the God of Death, and a member of the [[Pantheon of Gods]].
