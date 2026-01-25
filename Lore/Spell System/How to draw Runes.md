@@ -27,11 +27,5 @@ How to draw Range
 Note: Any other range is represented by nothing
 
   
-
 How to draw Dice
-
-  
-
 Note: No dice used is represented by nothing
-
-**
