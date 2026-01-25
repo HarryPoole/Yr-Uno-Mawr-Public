@@ -1,0 +1,2 @@
+#npc
+[[Vonnet]] is a rough-looking bandit with a sharp tongue and a permanent scowl, even when he’s clearly outmatched. He wears mismatched leather armour and carries a notched short sword that looks like it’s seen too many owners. [[Vonnet]] is always seen travelling with his partner, [[Dilly]].
