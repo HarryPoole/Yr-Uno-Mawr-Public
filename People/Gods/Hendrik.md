@@ -9,6 +9,6 @@ It is widely believed that [[Horatio]] and [[Hendrik]] were twin brothers, born 
 
 They are always arguing, not out of hatred, but necessity. [[Hendrik]] would impose law, boundaries, and cycles. [[Horatio]] would oppose them. Together, they were said to keep reality stable, order without stagnation, conflict without collapse.
 
-WMany myths claim that war only existed because order existed first, and that order only endured because war enforced it.
+Many myths claim that war only existed because order existed first, and that order only endured because war enforced it.
 
 > *“When the twins agreed, the world held steady. When they argued, the world moved forward.”*
