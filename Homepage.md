@@ -2,6 +2,7 @@
 dg-publish: true
 dg-home: true
 ---
+# Lore
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
 - [[Arcanport]]
