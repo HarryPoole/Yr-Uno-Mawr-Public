@@ -6,7 +6,7 @@ Each part of a spell has its own way of showing that on a Rune, the parts of a s
 
 How to draw Level
 Note: Cantrips are represented by no lines
-
+![[1.png]]
 
 How to draw School
 
