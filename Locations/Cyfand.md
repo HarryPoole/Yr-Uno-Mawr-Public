@@ -6,3 +6,5 @@ Includes:
 - [[Stonehaven]]
 - [[Arcanport]]
 - [[REDACTED]]
+
+![[map.png]]
