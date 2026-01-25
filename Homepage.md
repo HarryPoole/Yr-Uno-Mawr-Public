@@ -11,8 +11,9 @@ Spell System:
 - [[Runes]]
 - [[How to draw Runes]]
 
-Locations (in [[Cyfand]]):
-- [[Stonehaven]]
+# Locations (in [[Cyfand]])
+- [[Stonehaven]]:
+	- Goblin Caves
 - [[Arcanport]]
 - [[Phandalin]]
 
