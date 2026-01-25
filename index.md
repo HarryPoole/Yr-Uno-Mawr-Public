@@ -1,3 +1,6 @@
+---
+dg-publish:
+---
 Locations (in [[Cyfand]]):
 - [[Stonehaven]]
 - [[Arcanport]]
