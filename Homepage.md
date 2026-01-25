@@ -36,8 +36,10 @@ NPCs
 - [[Vonnet]]
 - [[Dilly]]
 
-PC
-
+PCs
+- [[Hechy]]
+- [[Cerise]]
+- [[Phantom]]
 # Factions
 - [[The Party]]
 - [[Pantheon of Gods]]
