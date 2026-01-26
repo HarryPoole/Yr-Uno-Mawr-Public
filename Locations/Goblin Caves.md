@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #location
 The [[Goblin Caves]] are a network of damp, twisting tunnels carved into the rock beneath the nearby hills. The air inside is stale and thick with the smell of rot, wet stone, and old smoke. Faint scratching and distant echoes make it hard to tell how large the cave system really is.
 
