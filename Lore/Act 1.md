@@ -1,6 +1,6 @@
 ---
 dg-publish: true
 ---
-#plot 
+#session
 
 Follows [[The Party]] through their adventures in [[Cyfand]]
