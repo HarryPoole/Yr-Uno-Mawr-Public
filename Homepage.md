@@ -20,29 +20,29 @@ dg-home: true
 - [[Phandalin]]
 	- [[Stonehill Inn]]
 # People
-[[Pantheon of Gods|Gods]]
-- [[Diovin]]
-- [[Govili]]
-- [[Hendrik]]
-- [[Horatio]]
-- [[Lliira]]
-- [[Loviatar]]
-- [[Eleos]]
-- [[Ennil]]
-- [[Azazel]]
-- [[Giloro]]
-- [[Chauntea]]
-- [[Salto]]
-# NPCs
-- [[Phandalin]]:
-	- [[Harbin Wester]]
-	- [[Sharna Quirstiron]]
-	- [[Toblen Stonehill]]
-- [[Stonehaven]]:
-	- [[Kara Quill]]
-- Other:
-	- [[Vonnet]]
-	- [[Dilly]]
+- [[Pantheon of Gods|Gods]]
+	- [[Diovin]]
+	- [[Govili]]
+	- [[Hendrik]]
+	- [[Horatio]]
+	- [[Lliira]]
+	- [[Loviatar]]
+	- [[Eleos]]
+	- [[Ennil]]
+	- [[Azazel]]
+	- [[Giloro]]
+	- [[Chauntea]]
+	- [[Salto]]
+- NPCs
+	- [[Phandalin]]:
+		- [[Harbin Wester]]
+		- [[Sharna Quirstiron]]
+		- [[Toblen Stonehill]]
+	- [[Stonehaven]]:
+		- [[Kara Quill]]
+	- Other:
+		- [[Vonnet]]
+		- [[Dilly]]
 # PCs
 - [[Hechy]]
 - [[Cerise]]
