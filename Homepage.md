@@ -3,9 +3,9 @@ dg-publish: true
 dg-home: true
 ---
 # Sessions
-[[Act 1]]:
-- [[Session 1]]
-- [[Session 2]]
+- [[Act 1]]:
+	- [[Session 1]]
+	- [[Session 2]]
 # Lore
 - Spell System:
 	- [[Spell System Overview]]
