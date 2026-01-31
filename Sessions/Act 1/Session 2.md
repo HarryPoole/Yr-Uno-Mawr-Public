@@ -9,4 +9,6 @@ Following this, [[Hechy]] goes over to the barkeeper, [[Toblen Stonehill|Toblen]
 
 Next, [[Hechy]] talks to [[Toblen Stonehill|Toblen]] who is reading the newspaper, titled “The Destructive Daily” [[Hechy]] asks to read it for a bit, and finds a few articles about the worsening of the [[Stonehaven]] trade routes and about scholars discussing [[The Legend of the Clockwork Mage]], following this, [[Hechy]] decided to go to sleep.
 
-During her dream, she saw everything change into [[Phandalin]], everyone screaming and running away while a huge crack in the sky emerged, with different places seen inside. Everything started to fade, and [[Hechy]] was left with only the rhythmic beating of cracks. [[Hechy]] awoke with a cold sweat.
+During her dream, she saw everything change into [[Phandalin]], everyone screaming and running away while a huge crack in the sky emerged, with different places seen inside. Everything started to fade, and [[Hechy]] was left with only the rhythmic beating of cracks. 
+
+[[Hechy]] awoke with a cold sweat.
