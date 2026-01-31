@@ -33,7 +33,7 @@ dg-home: true
 	- [[Giloro]]
 	- [[Chauntea]]
 	- [[Salto]]
-- NPCs
+- **NPCs**
 	- [[Phandalin]]:
 		- [[Harbin Wester]]
 		- [[Sharna Quirstiron]]
@@ -43,10 +43,10 @@ dg-home: true
 	- Other:
 		- [[Vonnet]]
 		- [[Dilly]]
-# PCs
-- [[Hechy]]
-- [[Cerise]]
-- [[Phantom]]
+- **PCs**
+	- [[Hechy]]
+	- [[Cerise]]
+	- [[Phantom]]
 # Factions
 - [[The Party]]
 - [[Pantheon of Gods]]
