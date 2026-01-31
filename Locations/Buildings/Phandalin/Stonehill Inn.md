@@ -13,8 +13,9 @@ Upstairs, the inn offers modest but clean rooms. Each contains a sturdy bed, a s
 Toblen Stonehill keeps a watchful eye on his guests, and trouble is quietly discouraged. For travelers passing through or adventurers laying low, the Stonehill Inn is a place to rest, recover, and hear the latest rumors drifting through town.
 
 **Services & Prices:**
-- Room (per night):  
+- Room (per night): 5 sp
 - Simple meal: 3 sp
-- Hearty meal: 
-- Ale (mug): 
-- Wine (fine): 
+- Hearty meal: 8 sp
+- Ale (mug): 4 cp
+- Ale (shot): 1 cp
+- Wine (common): 
