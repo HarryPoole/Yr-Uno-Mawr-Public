@@ -11,7 +11,7 @@ Following this, [[Hechy]] goes over to the barkeeper, [[Toblen Stonehill|Toblen]
 
 [[Hechy]] inquires to[[Toblen Stonehill|Toblen]] about the very drunk person next to her, he says her name is [[Sharna Quirstiron|Sharna]] and she isn’t usually a drinker but has been drinking a lot with the stress of the interruptions to her trade routes. [[Hechy]] tries to talk to her and manages to get her to go home in her drunken state.
 
-Next, [[Hechy]] talks to [[Toblen Stonehill|Toblen]] who is reading the newspaper, titled “The Destructive Daily” [[Hechy]] asks to read it for a bit, and finds a few articles about the worsening of the [[Stonehaven]] trade routes and about scholars discussing [[The Legend of the Clockwork Mage]], following this, [[Hechy]] decided to go to sleep.
+Next, [[Hechy]] talks to [[Toblen Stonehill|Toblen]] who is reading the newspaper, titled “The Daily Destroyer” [[Hechy]] asks to read it for a bit, and finds a few articles about the worsening of the [[Stonehaven]] trade routes and about scholars discussing [[The Legend of the Clockwork Mage]], following this, [[Hechy]] decided to go to sleep.
 
 During her dream, she saw everything change into [[Phandalin]], everyone screaming and running away while a huge crack in the sky emerged, with different places seen inside. Everything started to fade, and [[Hechy]] was left with only the rhythmic beating of cracks. 
 
