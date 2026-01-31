@@ -24,7 +24,7 @@ Every nineteen years, the calendar enters a known correction cycle. In the 3rd, 
 - **Govaril** (30 days)
     A month of growth, festivals, and communal labour.
     
-- Enlem (29 days)
+- **Diozza** (29 days) Enelm
     Seen as an echo of Diozio, often used for reassessment and balance.
     
 - **Hendrel** (30 days)
