@@ -3,7 +3,7 @@ dg-publish: true
 ---
 #session 
 # “Welcome to Phandalin”
-*22nd of Diozio 1759 - Evening
+*22nd of Diozio 1759 - Evening*
 
 [[The party]] entered [[Phandalin]], the knights led them to the local tavern, [[Stonehill Inn]], said thank you again and left them there. Upon entering, [[the party]] was greeted by [[Harbin Wester]], confusing them for a group of adventurers from [[Stonehaven]], nevertheless, he asks for their help with some troubles [[Phandalin|the town]] has been having, and offers to pay them all handsomely. He also tells them he’ll pay for their room at [[Stonehill Inn]], and leaves, telling them that they’ll discuss the details in the morning.
 
