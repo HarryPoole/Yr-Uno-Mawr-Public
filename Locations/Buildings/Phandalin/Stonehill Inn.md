@@ -10,7 +10,7 @@ The food is hearty and filling rather than fancy—thick stews, roasted root veg
 
 Upstairs, the inn offers modest but clean rooms. Each contains a sturdy bed, a small washbasin, and a shuttered window looking out over the town. The walls are thin, and guests can often hear the wind outside—or the faint sounds of life continuing below—but the beds are comfortable, and the inn is widely considered the safest place to sleep in Phandalin.
 
-Toblen Stonehill keeps a watchful eye on his guests, and trouble is quietly discouraged. For travelers passing through or adventurers laying low, the Stonehill Inn is a place to rest, recover, and hear the latest rumors drifting through town.
+[[Toblen Stonehill]] keeps a watchful eye on his guests, and trouble is quietly discouraged. For travellers passing through or adventurers laying low, the Stonehill Inn is a place to rest, recover, and hear the latest rumours drifting through town.
 
 **Services & Prices:**
 - Room (per night): 5 sp
@@ -18,4 +18,5 @@ Toblen Stonehill keeps a watchful eye on his guests, and trouble is quietly disc
 - Hearty meal: 8 sp
 - Ale (mug): 4 cp
 - Ale (shot): 1 cp
-- Wine (common): 
+- Wine (common): 2 sp
+- Wine (fine): 5 gp
