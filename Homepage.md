@@ -18,7 +18,7 @@ dg-home: true
 	- [[Goblin Caves]]
 - [[Arcanport]]
 - [[Phandalin]]
-
+	- [[Stonehill Inn]]
 # People
 [[Pantheon of Gods|Gods]]
 - [[Diovin]]
@@ -33,19 +33,17 @@ dg-home: true
 - [[Giloro]]
 - [[Chauntea]]
 - [[Salto]]
-
-NPCs
+# NPCs
 - [[Phandalin]]:
 	- [[Harbin Wester]]
 	- [[Sharna Quirstiron]]
 	- [[Toblen Stonehill]]
 - [[Stonehaven]]:
-	- 
+	- [[Kara Quill]]
 - Other:
 	- [[Vonnet]]
 	- [[Dilly]]
-
-PCs
+# PCs
 - [[Hechy]]
 - [[Cerise]]
 - [[Phantom]]
