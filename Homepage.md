@@ -36,9 +36,14 @@ dg-home: true
 
 NPCs
 - [[Phandalin]]:
+	- [[Harbin Wester]]
+	- [[Sharna Quirstiron]]
+	- [[Toblen Stonehill]]
+- [[Stonehaven]]:
 	- 
-- [[Vonnet]]
-- [[Dilly]]
+- Other:
+	- [[Vonnet]]
+	- [[Dilly]]
 
 PCs
 - [[Hechy]]
