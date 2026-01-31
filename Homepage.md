@@ -13,7 +13,7 @@ dg-home: true
 	- [[How to draw Runes]]
 - [[Calendar System]]
 - [[The Legend of the Clockwork Mage]] ([[The Clockwork Mage]])
-# Locations (in [[Cyfand]])
+# Locations (in [[Cyfand]] ([[Arvum]] & [[Insula]]))
 - [[Stonehaven]]
 	- [[Goblin Caves]]
 - [[Arcanport]]
