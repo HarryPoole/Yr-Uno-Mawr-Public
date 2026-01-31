@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #npc 
 [[Toblen Stonehill]] is the proprietor of [[Stonehill Inn]] and one of the steadier presences in [[Phandalin]]. Calm, practical, and observant, he keeps the inn running despite [[Phandalin|the town]]’s growing anxiety.
 

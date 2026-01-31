@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #lore
 # Overview
 The lands of [[Cyfand]] follow a lunar and solar based calendar said to have been set down in the early divine age, when time itself was first measured with any consistency.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #npc 
 [[The Clockwork Mage]] is a figure of legend, frequently debated by scholars and occasionally mentioned in older texts. Stories describe a powerful mage who sought to understand and control time and space through intricate magical devices.
 
