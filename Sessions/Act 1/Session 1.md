@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 #session
-# *“Awakening in the Web”
+# *“Awakening in the Web”*
+*22nd of Diozio 1759
 
 [[The party]], consisting of [[Hechy]], [[Phantom]] and [[Cerise]] awoke in a cave, covered in cobwebs, they each got a look at one another before seeing a giant spider emerge of a tunnel in the ceiling, after successfully killing it, they got to know each other a bit before running into [[Vonnet]] and [[Dilly]] in the room to the side of them, arguing whether they should steal a bowl worth 100gp, they meet [[the party]] and [[the party]] decides to help them in exchange for a cut of the money. They see a room with two goblins in and [[Hechy]] kills them with some well thrown spells, but it draws the attention of three goblins from the room ahead, seeing the party, they start combat but [[Vonnet]] and [[Dilly]] decide to run away into the room containing the bowl. Once [[the party]] enters the final room, they realise that [[Vonnet]] and [[Dilly]] ransacked the place, stole the bowl and ran away. [[The party]] decides to try and follow them but looses them outside, instead following a path they believe them to be on. On the path, the party sees two Knights, a scholar and a merchant being attacked by 4 goblins with another lurking near [[the party]]. They call for [[the party]]’s help and thy oblige, helping them kill all the goblins, to which they all thank them profusely. They ask them to escort them back to [[Phandalin]], believing that they were sent from [[Stonehaven]], and [[the party]] accepts, finishing the session as they walk into [[Phandalin]].
