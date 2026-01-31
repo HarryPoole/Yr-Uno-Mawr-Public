@@ -3,7 +3,7 @@ dg-publish: true
 ---
 #location 
 
-The country the game takes place in.
+The united country of [[Insula]] and [[Argu]] the game takes place in.
 
 Includes:
 - [[Stonehaven]]
