@@ -12,10 +12,7 @@ dg-home: true
 	- [[Runes]]
 	- [[How to draw Runes]]
 - [[Calendar System]]
-- [([[The Clockwork Mage]])
-- 
-
-
+- [[The Legend of the Clockwork Mage]] ([[The Clockwork Mage]])
 # Locations (in [[Cyfand]])
 - [[Stonehaven]]
 	- [[Goblin Caves]]
@@ -38,6 +35,8 @@ dg-home: true
 - [[Salto]]
 
 NPCs
+- [[Phandalin]]:
+	- 
 - [[Vonnet]]
 - [[Dilly]]
 
