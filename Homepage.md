@@ -5,12 +5,16 @@ dg-home: true
 # Sessions
 [[Act 1]]:
 - [[Session 1]]
-- Session 
+- [[Session 2]]
 # Lore
-Spell System:
-- [[Spell System Overview]]
-- [[Runes]]
-- [[How to draw Runes]]
+- Spell System:
+	- [[Spell System Overview]]
+	- [[Runes]]
+	- [[How to draw Runes]]
+- [[Calendar System]]
+- [([[The Clockwork Mage]])
+- 
+
 
 # Locations (in [[Cyfand]])
 - [[Stonehaven]]
