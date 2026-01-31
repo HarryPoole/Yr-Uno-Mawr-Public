@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #location 
 [[Arvum]] is the larger of the two nations that form [[Cyfand]], covering most of the mainland. To most people, [[Arvum]] is [[Cyfand]], it holds the capital, the largest trade routes, and the majority of the population.
 

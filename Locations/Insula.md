@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #location
 [[Insula]] is a rugged island nation to the west, separated from [[Arvum]] by a narrow but treacherous sea. Though politically united with [[Arvum]] under [[Cyfand]], [[Insula]] retains a strong cultural identity and is often treated as an afterthought by mainland officials.
 
