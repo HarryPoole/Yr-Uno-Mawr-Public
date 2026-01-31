@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #location 
 The [[Stonehill Inn]] stands near the centre of [[Phandalin]], its timber frame solid and well-kept despite the town’s rough edges. A warm yellow glow spills from its shuttered windows at all hours of the day.
 
@@ -9,9 +12,9 @@ Upstairs, the inn offers modest but clean rooms. Each contains a sturdy bed, a s
 
 Toblen Stonehill keeps a watchful eye on his guests, and trouble is quietly discouraged. For travelers passing through or adventurers laying low, the Stonehill Inn is a place to rest, recover, and hear the latest rumors drifting through town.
 
-**Services & Prices (to be filled in):**
-- Room (per night): 
-- Simple meal: 
+**Services & Prices:**
+- Room (per night):  
+- Simple meal: 3 sp
 - Hearty meal: 
 - Ale (mug): 
 - Wine (fine): 
