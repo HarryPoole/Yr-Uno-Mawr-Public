@@ -2,6 +2,8 @@
 dg-publish: true
 ---
 #location 
+First appeared in E
+
 [[Stonehill Inn]] stands near the centre of [[Phandalin]], its timber frame solid and well-kept despite the town’s rough edges. A warm yellow glow spills from its shuttered windows at all hours of the day.
 
 Inside, the common room is lively but never rowdy. A broad stone fireplace dominates the far wall, its embers crackling softly as locals gather around heavy wooden tables scarred by years of honest use. The floorboards creak underfoot, and the low murmur of conversation is punctuated by the clink of mugs and the occasional burst of laughter. A simple wooden bar runs along one side of the room, behind which shelves of bottles and clay jugs are kept meticulously organized.
