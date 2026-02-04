@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 #npc 
-First appeared in [[Session 2]]
++First appeared in [[Session 2]]*
 
 [[Kara Quill]] is a representative of [[Acquisitions Incorporated]]. She is well-dressed, calm, and observant, standing out sharply against the general tension of [[Phandalin]].
 

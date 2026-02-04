@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 #npc 
-First appeared in [[Session 2]]
+*First appeared in [[Session 2]]*
 
 [[Sharna Quirstiron]] is a trader who operates along the routes between [[Phandalin]] and [[Stonehaven]]. Normally reserved, she has recently taken to heavy drinking at [[Stonehill Inn]].
 

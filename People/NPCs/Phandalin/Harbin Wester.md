@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 #npc
-First a
+*First appeared in [[Session 2]]*
 
 [[Harbin Wester]] is the townmaster of [[Phandalin]], a man who looks like he has not slept properly in weeks. He speaks quickly, wipes sweat from his brow often, and gives the impression of someone constantly trying to stay one step ahead of disaster.
 
