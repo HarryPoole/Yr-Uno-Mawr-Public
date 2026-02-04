@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 #newspaper
+# MYSTERIOUS ADVENTURERS ARRIVE WITH CARAVAN
 _Phandalin Local Sheet_
 
 Late yesterday evening, a small group of armed travellers arrived in [[Phandalin]] alongside a battered trade caravan, marking the first successful escorted arrival in several weeks.
