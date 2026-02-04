@@ -1,7 +1,8 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 #newspaper
+# ACQUISITIONS INCORPORATED EXPANDS OPERATIONS IN RURAL REGIONS
 _Mercantile & Investment Ledger_
 
 [[Acquisitions Incorporated]] announced today an expansion of its operational interests into smaller settlements and frontier towns, citing “untapped opportunity and rising demand for independent problem-solving.”
