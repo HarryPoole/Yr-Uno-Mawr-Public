@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 #newspaper
 _Phandalin Local Sheet_
