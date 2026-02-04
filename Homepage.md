@@ -6,6 +6,7 @@ dg-home: true
 - [[Act 1]]:
 	- [[Session 1]]
 	- [[Session 2]]
+	- [[Session 3]]
 # Lore
 - Spell System:
 	- [[Spell System Overview]]
@@ -19,6 +20,7 @@ dg-home: true
 - [[Arcanport]]
 - [[Phandalin]]
 	- [[Stonehill Inn]]
+	- [[Townmaster’s Hall]]
 # People
 - [[Pantheon of Gods|Gods]]
 	- [[Diovin]]
@@ -38,6 +40,7 @@ dg-home: true
 		- [[Harbin Wester]]
 		- [[Sharna Quirstiron]]
 		- [[Toblen Stonehill]]
+		- [[Kros Bloodfist]]
 	- [[Stonehaven]]:
 		- [[Kara Quill]]
 	- Other:

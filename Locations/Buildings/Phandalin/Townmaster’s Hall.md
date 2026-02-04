@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 #location 
 *First appeared in [[Session 3]]*
