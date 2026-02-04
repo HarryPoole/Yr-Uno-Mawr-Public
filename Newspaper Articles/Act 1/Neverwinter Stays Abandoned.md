@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 #newspaper 
+# NEVERWINTER STAYS ABANDONED AFTER ALMOST 400 YEARS
 _Regional Curiosities Column_
 
 The ruined city east of [[Phandalin]], identified in fragmented records as Neverwinter, remains uninhabited centuries after its sudden abandonment.

@@ -5,13 +5,13 @@ dg-publish: true
 # ”Hunter’s Game”
 *23rd of Diozio 1759*
 
-[[Hechy]], [[Phantom]], and [[Cerise]] wake to the town of [[Phandalin]] inside [[Stonehill Inn]]. Downstairs, [[the party]] spots a rune, carved into a wall, being reactivated. They order breakfast and but some newspapers, titled “The Weekly Wizard”, it contains articles about [[Acquisitions Incorporated Expansion|Acquisitions Incorporated expanding]], [[NEVERWINTER STAYS ABANDONED AFTER ALMOST 400 YEARS|A city called Neverwinter being abandoned]], and [[Mysterious Adventurers in Phandalin|adventures arriving in Phandalin]]. 
+[[Hechy]], [[Phantom]], and [[Cerise]] wake to the town of [[Phandalin]] inside [[Stonehill Inn]]. Downstairs, [[the party]] spots a rune, carved into a wall, being reactivated. They order breakfast and but some newspapers, titled “The Weekly Wizard”, it contains articles about [[Acquisitions Incorporated Expansion|Acquisitions Incorporated expanding]], [[Neverwinter Stays Abandoned|A city called Neverwinter being abandoned]], and [[Mysterious Adventurers in Phandalin|adventures arriving in Phandalin]]. 
 
 Soon after, an angry man enters [[Stonehill Inn|the building]], asks for the new goblin hunters and introduces himself to the party as [[Kros Bloodfist|Kros]] and directs them to the [[Townmaster’s Hall]] where [[Harbin Wester]] is waiting for them.
 
 Exiting [[Stonehill Inn]], [[Hechy]] looks up to see the same cracks in the sky she saw in her dream, questioning the rest of the party, she finds that no one else can see them. At the [[Townmaster’s Hall]], [[Harbin Wester]] explains that two goblin camps are crippling [[Phandalin]]’s trade, one is hidden in the forests, ambushing travellers, and another built into the mountains overlooking a critical pass. He offers thirty gold pieces each, permission to keep any loot they find, and presents them with a magical wand, in exchange for destroying the camps and their leaders. [[The party]] accepts and chooses to go the mountain camp.
 
-While walking to the camp, the party decides to read some more of their newspaper, they read [[SALIUM APPROACHES - TEMPLES PREPARE|an article about the month of Salium]], [[Hechy]] also notices that the cracks in the sky are beginning to fade.
+While walking to the camp, the party decides to read some more of their newspaper, they read [[Salium Approaches|an article about the month of Salium]], [[Hechy]] also notices that the cracks in the sky are beginning to fade.
 
 Once they arrive the party forms a plan for [[Hechy]] to take out the goblin leader and for [[Phantom]] and [[Cerise]] to take out the surrounding goblins.
 

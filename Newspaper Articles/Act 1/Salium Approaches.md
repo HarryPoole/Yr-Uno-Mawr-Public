@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 #newspaper 
+# SALIUM APPROACHES - TEMPLES PREPARE
 _Religious Observance Notice_
 
 With the Leap Month approaching, temples across [[Cyfand]] have begun preparations for extended rites, offerings, and periods of heightened observance.
