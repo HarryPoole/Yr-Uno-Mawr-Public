@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 #location 
-First appeared in E
+*First appeared in [[Session 2]]*
 
 [[Stonehill Inn]] stands near the centre of [[Phandalin]], its timber frame solid and well-kept despite the town’s rough edges. A warm yellow glow spills from its shuttered windows at all hours of the day.
 
