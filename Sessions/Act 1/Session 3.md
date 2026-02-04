@@ -1,9 +1,9 @@
 ---
 dg-publish: false
 ---
+#session 
 # ”Hunter’s Game”
 *23rd of Diozio 1759*
-#session 
 
 [[Hechy]], [[Phantom]], and [[Cerise]] wake to the town of [[Phandalin]] inside [[Stonehill Inn]]. Downstairs, [[the party]] spots a rune, carved into a wall, being reactivated. They order breakfast and but some newspapers, titled “The Weekly Wizard”, it contains articles about [[ACQUISITIONS INCORPORATED EXPANDS OPERATIONS IN RURAL REGIONS|Acquisitions Incorporated expanding]], [[NEVERWINTER STAYS ABANDONED AFTER ALMOST 400 YEARS|A city called Neverwinter being abandoned]], and [[MYSTERIOUS ADVENTURERS ARRIVE WITH CARAVAN|adventures arriving in Phandalin]]. 
 

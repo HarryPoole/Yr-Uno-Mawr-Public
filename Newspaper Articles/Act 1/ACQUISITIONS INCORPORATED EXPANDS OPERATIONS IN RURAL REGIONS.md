@@ -1,3 +1,6 @@
+---
+dg-publish: false
+---
 #newspaper
 _Mercantile & Investment Ledger_
 
