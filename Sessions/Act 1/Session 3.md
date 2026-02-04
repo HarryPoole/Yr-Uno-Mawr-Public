@@ -4,8 +4,6 @@ dg-publish: false
 # ”Hunter’s Game”
 *23rd of Diozio 1759*
 
-Session 3 - **”Hunter’s Game”**
-
 [[Hechy]], [[Phantom]], and [[Cerise]] wake to the town of [[Phandalin]] inside [[Stonehill Inn]]. Downstairs, [[the party]] spots a rune, carved into a wall, being reactivated. They order breakfast and but some newspapers, titled “The Weekly Wizard”, it contains articles about [[ACQUISITIONS INCORPORATED EXPANDS OPERATIONS IN RURAL REGIONS|Acquisitions Incorporated expanding]], [[NEVERWINTER STAYS ABANDONED AFTER ALMOST 400 YEARS|A city called Neverwinter being abandoned]], and [[MYSTERIOUS ADVENTURERS ARRIVE WITH CARAVAN|adventures arriving in Phandalin]]. 
 
 Soon after, an angry man enters [[Stonehill Inn|the building]], asks for the new goblin hunters and introduces himself to the party as [[Kros Bloodfist|Kros]] and directs them to the [[Townmaster’s Hall]] where [[Harbin Wester]] is waiting for them.

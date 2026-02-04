@@ -3,7 +3,6 @@ dg-publish: true
 ---
 #character
 The character played by Sasha
-First appeared in [[Session 1]]
 
 ![[Hechy.png]]
 # Description
