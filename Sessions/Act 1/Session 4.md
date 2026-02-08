@@ -3,7 +3,7 @@ dg-publish: true
 ---
 #session 
 # “Hunter’s Remains”
-*24th of Diozio*
+*24th of Diozio 1759*
 
 After waking up, [[the party]] gets breakfast. [[Hechy]] leaves before the others to start scouting the camp but [[Cerise]] and [[Phantom]] leave and catch up to her quite quickly. Once they arrive, they devise a plan for [[Hechy]] to make a distraction by lighting their wall on fire while [[Cerise]] and [[Phantom]] go through the main entrance. [[Hechy]] catches an entire section of the camp on fire, killing some goblins and attracting the rest, while [[Cerise]] and [[Phantom]] take out the other goblins. 
 
