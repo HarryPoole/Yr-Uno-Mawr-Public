@@ -1,5 +1,8 @@
+---
+dg-publish: true
+---
 #session 
-# Peace and Crime
+# "Peace and Crime"
 *25th of Diozio 1759
 
 Upon waking up inside the forest, [[the party]] mingled for a few minutes before going down the road and returning to [[Phandalin]]. They meet [[Harbin Wester]] at the entrance and pass by a newly happy and lively [[Phandalin]], where they are having a celebration for their new found peace. [[Harbin Wester]] gave [[the party]] their pay before he too left for the celebration. [[The party]] tries to look for a way to leave [[Phandalin]], looking around the celebration, they find [[Kara Quill]] and ask her if they can join her when she returns to [[Stonehaven]], to which she says that she is leaving to [[Stonehaven]] in 2 days. [[The party]] is called over to the middle of the celebration by [[Harbin Wester]] who says a speech to all the celebration’s attendees and hands [[the party]] each an award. [[Hechy]] asks [[Harbin Wester]] for some clothes, while [[Cerise]] and [[Phantom]] go to the blacksmith and collect [[Cerise]]’s half handcuff, they also asked the blacksmith where they could get a horse, the blacksmith pointed them towards the Alderleaf Farm. [[Cerise]] and [[Phantom]] start to walk over there, whilst [[Hechy]] goes to the blacksmith to try and find them. Once at the farm, the duo decide to break down the door and search the house for any horses. Unfortunately for the duo, the police heard their bombardment of the door, and came to investigate, recruiting [[Hechy]] on the way to help them.
